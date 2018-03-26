@@ -1,3 +1,4 @@
-桌面悬浮窗口，最前端显示，用于辅助录屏
-可通过 setting.txt 文件设置背景、字体颜色、大小
-可读取文件，单左键点击时显示下一行
+1. Run desktopSub_win.exe Please!
+2. Pressuse F1 to read help.
+3. Use ExampleSub.txt to try!
+4. Pressuse Ctrl + Q to quit.
